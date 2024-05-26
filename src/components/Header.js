@@ -12,7 +12,7 @@ const Header = () => {
 
   return (
     <header className="sticky top-0 bg-dark-blue p-4 flex items-center justify-between">
-      <div className="text-white text-4xl pl-4 pt-4" style={{ fontFamily: "Just Me Again Down Here" }}>
+      <div className="text-white text-4xl pl-4 pt-4 cursor-pointer" style={{ fontFamily: "Just Me Again Down Here" }}>
         Wampus Branding
       </div>
       <button
@@ -28,17 +28,17 @@ const Header = () => {
               key={key} 
               code={Flags[key]} 
               fallback={<span>{key}</span>} 
-              className="w-6 h-4 rounded"
+              className="w-6 h-4 rounded cursor-pointer"
             />
           ))}
         </div>
         <div className="flex flex-col md:flex-row pt-4">
           <ul className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4 ml-8 text-white">
-            <li className="content-center pr-6">Home</li>
-            <li className="content-center pr-6">Career</li>
-            <li className="content-center pr-6">Projects</li>
+            <li className="content-center pr-6 cursor-pointer">Home</li>
+            <li className="content-center pr-6 cursor-pointer">Career</li>
+            <li className="content-center pr-6 cursor-pointer">Projects</li>
           </ul>
-          <button className="ml-4 bg-white text-black px-4 py-2 rounded">
+          <button className="ml-4 bg-white text-black px-4 py-2 rounded cursor-pointer">
             Customer Dashboard
           </button>
           <button
