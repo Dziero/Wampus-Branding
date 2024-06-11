@@ -7,12 +7,12 @@ import { useState } from 'react'
 
 const Flags = config.flags
 
-const Header = () => {
+const HeaderBuilder = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 bg-dark-blue p-4 flex items-center justify-between">
-      <div className="text-white text-4xl pl-4 pt-4 cursor-pointer" style={{ fontFamily: "Just Me Again Down Here" }}>
+    <header className="sticky top-0 bg-dark-blue p-4 flex items-center justify-between z-10">
+      <div className="text-white text-4xl pl-4 pt-4" style={{ fontFamily: "Just Me Again Down Here" }}>
         Wampus Branding
       </div>
       <button
@@ -34,11 +34,11 @@ const Header = () => {
         </div>
         <div className="flex flex-col md:flex-row pt-4">
           <ul className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4 ml-8 text-white">
-            <li className="content-center pr-6 cursor-pointer">Home</li>
-            <li className="content-center pr-6 cursor-pointer">Career</li>
-            <li className="content-center pr-6 cursor-pointer">Projects</li>
+            <li className="content-center pr-6"><a href="#">Home</a></li>
+            <li className="content-center pr-6"><a href="#career">Career</a></li>
+            <li className="content-center pr-6"><a href="#projects">Projects</a></li>
           </ul>
-          <button className="ml-4 bg-white text-black px-4 py-2 rounded cursor-pointer">
+          <button className="ml-4 bg-white text-black px-4 py-2 rounded">
             Customer Dashboard
           </button>
           <button
@@ -53,4 +53,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default HeaderBuilder;

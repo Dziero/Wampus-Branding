@@ -10,9 +10,9 @@ export const metadata = {
   description: config.page_description,
 };
 
-export default function RootLayout({ children }) {
+export default function RootLayout({ children, params }) {
   return (
-    <html lang="pl">
+    <html lang={ params.locale }>
       <body className={inter.className}>{children}</body>
     </html>
   );
