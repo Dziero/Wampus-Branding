@@ -4,8 +4,8 @@ import shieldDollar from '@/public/svg/Shield-Dollar.svg'
 import userGroup from '@/public/svg/user-group.svg'
 
 const config = {
-    page_title: "Wampus",
-    page_description: "Wampus",
+    page_title: "Wampus Branding",
+    page_description: "Our programmers group presents its portfolio showcasing various projects, innovative solutions, and technical skills. Discover how we tackle challenges and deliver exceptional results through our collaborative approach to coding and problem-solving.",
     flags: {
         Spanish: 'es',
         Czech: 'cz',
