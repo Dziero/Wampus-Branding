@@ -17,7 +17,7 @@ const HeaderBuilder = () => {
   return (
     <header className="sticky top-0 bg-dark-blue p-4 flex items-center justify-between z-10">
       <div className="text-white text-4xl pl-4 pt-4" style={{ fontFamily: "Just Me Again Down Here" }}>
-        Wampus Branding
+       <a href="#">Wampus Branding</a> 
       </div>
       <button
         className={`text-white md:hidden ${isMenuOpen ? "hidden" : "block"}`}

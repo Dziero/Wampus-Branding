@@ -4,6 +4,7 @@ import ShowcaseSection from "@/components/ShowcaseSection";
 import LineHorizontal from "@/components/Appearance/LineHorizontal";
 import ServiceHighlights from "@/components/ServiceHightlits";
 import FooterBuilder from "@/components/FooterBuilder";
+import ContactForm from "@/components/ContactForm";
 
 export default function Home() {
   return (
@@ -14,7 +15,10 @@ export default function Home() {
       <ServiceHighlights />  
       <LineHorizontal text="Project Showcase"/>
       <ShowcaseSection />
+      <ContactForm />
+      
       <FooterBuilder />
+
     </main>
   );
 }
