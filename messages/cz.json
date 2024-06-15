@@ -1,8 +1,22 @@
 {
     "Header": {
-        "Home": "Home",
-        "Career": "Career",
-        "Projects": "Projects",
-        "Customer Dashboard": "Customer Dashboard"
+        "Home": "Domů",
+        "Career": "Kariéra",
+        "Projects": "Projekty",
+        "Customer Dashboard": "Panel zákazníka"
+    },
+    "Separators": {
+        "WhyChooseUsOverOthers": "Proč zvolit nás před ostatními?",
+        "ProjectShowcase": "Přehled projektů"
+    },
+    "WelcomePage": {
+        "StartYourJourneyWithUs": "Začněte svou cestu s námi",
+        "WelcomeToThe": "Vítejte v",
+        "WorldOfWampusBranding": "Svět Wampus Branding",
+        "LetsTalk": "Povídejme"
+    },
+    "ShowcaseSection": {
+        "Below": "V projektech níže jsme měli určitou relevanci. Na některých webových stránkách to byly pouze funkční implementace!",
+        "TakeALook": "Podívejte se"
     }
 }

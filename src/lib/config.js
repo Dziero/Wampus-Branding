@@ -3,6 +3,9 @@ import handShake from '@/public/svg/Handshake-Company.svg'
 import shieldDollar from '@/public/svg/Shield-Dollar.svg'
 import userGroup from '@/public/svg/user-group.svg'
 
+import mailIcom from '@/public/svg/mail-icon.svg'
+import pageIcon from '@/public/svg/page-icon.svg'
+
 const config = {
     page_title: "Wampus Branding",
     page_description: "Our programmers group presents its portfolio showcasing various projects, innovative solutions, and technical skills. Discover how we tackle challenges and deliver exceptional results through our collaborative approach to coding and problem-solving.",
@@ -22,13 +25,18 @@ const config = {
         {title: "Transparent Communication", svg: userGroup, description: "Our commitment to transparent communication ensures clarity and honesty in every interaction, fostering trust and understanding" },
     ],
 
+    contactForm: [
+        {svg: mailIcom, description: "devartcode.kontakt@gmail.com"},
+        {svg: pageIcon, description: "devartcode.kontakt@gmail.com"}
+    ],
+
     serviceHighlightsDashBoard: {title: "Customer Service Dashboard", svg: fileCode, description: "Within our client panel, users have a range of options at their fingertips. From reporting program defects to submitting requests for further development, the platform serves as a hub for streamlined communication. Our team diligently monitors the panel, ensuring that all inquiries are promptly addressed and any necessary actions are taken.", buttonTextDashboard: "Customer Dashboard", buttonTextFind: "Find out more" },
 
     projects: [
-        { title: "1", img: "https://via.placeholder.com/400x200", description: "Subheading describing your site, too", url: "https://youtube.com" },
-        { title: "2", img: "https://via.placeholder.com/400x200", description: "Subheading describing your site, too", url: "https://youtube.com" },
-        { title: "3", img: "https://via.placeholder.com/400x200", description: "Subheading describing your site, too", url: "https://youtube.com" },
-        { title: "4", img: "https://via.placeholder.com/400x200", description: "Subheading describing your site, too", url: "https://youtube.com" },
+        { img: "https://via.placeholder.com/400x200", url: "https://youtube.com" },
+        { img: "https://via.placeholder.com/400x200", url: "https://youtube.com" },
+        { img: "https://via.placeholder.com/400x200", url: "https://youtube.com" },
+        { img: "https://via.placeholder.com/400x200", url: "https://youtube.com" },
     ]
 }
 

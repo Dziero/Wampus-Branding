@@ -1,8 +1,22 @@
 {
     "Header": {
-        "Home": "Home",
-        "Career": "Career",
-        "Projects": "Projects",
-        "Customer Dashboard": "Customer Dashboard"
+        "Home": "Головна",
+        "Career": "Кар'єра",
+        "Projects": "Проекти",
+        "Customer Dashboard": "Панель клієнта"
+    },
+    "Separators": {
+        "WhyChooseUsOverOthers": "Чому обрати нас над іншими?",
+        "ProjectShowcase": "Виставка проектів"
+    },
+    "WelcomePage": {
+        "StartYourJourneyWithUs": "Почніть свою подорож з нами",
+        "WelcomeToThe": "Ласкаво просимо до",
+        "WorldOfWampusBranding": "Світ бренду Wampus",
+        "LetsTalk": "Давайте поговоримо"
+    },
+    "ShowcaseSection": {
+        "Below": "У проектах нижче ми мали певне значення. На деяких сайтах це були лише функціональні реалізації!",
+        "TakeALook": "Подивіться"
     }
 }

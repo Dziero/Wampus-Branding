@@ -1,30 +1,53 @@
 import React from "react";
+import Image from 'next/image';
+import config from '@/lib/config'
+
+const valuesContactForm = config.contactForm;
 
 const ContactForm = () => {
     return (
-    <section className="hidden sm:flex bg-transparent items-center justify-center mx-auto h-auto p-10 rounded-md" id="contact">
-            <div className="bg-[#0B2C45] px-16 py-8 rounded-md flex justify-between w-full">
-                <div className="flex flex-col justify-between w-2/4">
-                    <input 
-                        type="text" 
-                        placeholder="example@gmail.com" 
-                        className="p-4 bg-gray-300 rounded-md mb-4 text-lg"
-                        required
-                    />
-                    <textarea 
-                        placeholder="Your Message" 
-                        className="p-4 bg-gray-300 rounded-md flex-grow text-lg h-72"
-                        required
-                    />
+<section className="hidden sm:flex bg-[#092235] items-center justify-center h-3/5 my-10 mx-64 rounded-3xl" id="contact">
 
-                <div className="flex justify-center">
-                    <button className="bg-[#00ABF0] text-white py-3 px-6 rounded-full mt-4 text-lg font-bold w-1/4">
-                        Send
-                    </button>
+  <div className="w-full flex justify-between px-16 py-8 h-full">
+    <div className="w-1/2 space-y-4 h-full">
+      <input 
+        type="email" 
+        placeholder="Email"
+        className="w-full bg-gray-300 text-gray-700 rounded-2xl px-4 py-4 mt-6 focus:outline-none focus:ring-2"
+        name="Email"
+      />
+      <textarea 
+        className="w-full bg-gray-300 text-gray-700 rounded-2xl px-4 py-4 mt-6 h-4/6 focus:outline-none focus:ring-2 resize-none"
+        placeholder="Message"
+        name="Message"
+      ></textarea>
+        <button 
+        type="submit"
+        className="bg-[#00ABF0] text-white font-semibold py-2 px-24 mb-8 mt-8 rounded-full mx-auto block"
+        >
+        Send
+        </button>
+    </div>
+
+    <div className="w-1/2 flex flex-col justify-center space-y-4 ml-16">
+      <div className="flex flex-col space-y-8">
+        {valuesContactForm.map((item, index) => (
+            <div className="flex flex-row items-center" key={index}>
+                <div className="w-12 h-12 flex items-center justify-center">
+                    <Image src={item.svg} className="mb-3" width={70} height={70} />
                 </div>
-                </div>
+                <span className="text-gray-300 text-lg font-semibold ml-4">{item.description}</span>
             </div>
-        </section>
+        ))}
+
+      </div>
+    </div>
+  </div>
+  
+</section>
+
+
+
     );
 };
 

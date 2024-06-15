@@ -1,8 +1,22 @@
 {
     "Header": {
-        "Home": "Home",
-        "Career": "Career",
-        "Projects": "Projects",
-        "Customer Dashboard": "Customer Dashboard"
+        "Home": "Startseite",
+        "Career": "Karriere",
+        "Projects": "Projekte",
+        "Customer Dashboard": "Kundendashboard"
+    },
+    "Separators": {
+        "WhyChooseUsOverOthers": "Warum Uns Wählen?",
+        "ProjectShowcase": "Projektpräsentation"
+    },
+    "WelcomePage": {
+        "StartYourJourneyWithUs": "Beginnen Sie Ihre Reise mit uns",
+        "WelcomeToThe": "Willkommen in der",
+        "WorldOfWampusBranding": "Welt des Wampus Branding",
+        "LetsTalk": "Lass uns reden"
+    },
+    "ShowcaseSection": {
+        "Below": "In den unten stehenden Projekten hatten wir einige Bedeutung. Auf einigen Seiten waren dies lediglich funktionale Implementierungen!",
+        "TakeALook": "Schau mal"
     }
 }

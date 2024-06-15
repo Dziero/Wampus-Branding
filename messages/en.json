@@ -4,5 +4,27 @@
         "Career": "Career",
         "Projects": "Projects",
         "Customer Dashboard": "Customer Dashboard"
+    },
+    "Separators": {
+        "WhyChooseUsOverOthers": "Why Choose Us Over Others?",
+        "ProjectShowcase": "Project Showcase"
+    },
+    "WelcomePage": {
+        "StartYourJourneyWithUs": "Start Your Journey With Us",
+        "WelcomeToThe": "Welcome to the",
+        "WorldOfWampusBranding": "World of Wampus Branding",
+        "LetsTalk": "Let's Talk"
+    },
+    "ShowcaseSection": {
+        "Below": "In the projects below we had some significance. On some sites, these were merely functional implementations!",
+        "TakeALook": "Take a look",
+        "title0": "Title 1",
+        "title1": "Title 2",
+        "title2": "Title 3",
+        "title3": "Title 4",
+        "desc0": "desc 1",
+        "desc1": "desc 2",
+        "desc2": "desc 3",
+        "desc3": "desc 4"
     }
 }
