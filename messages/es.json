@@ -6,17 +6,44 @@
         "Customer Dashboard": "Panel de Cliente"
     },
     "Separators": {
-        "WhyChooseUsOverOthers": "¿Por qué elegirnos sobre otros?",
-        "ProjectShowcase": "Presentación de Proyectos"
+        "WhyChooseUsOverOthers": "¿Por Qué Elegirnos Sobre Otros?",
+        "ProjectShowcase": "Muestra de Proyectos"
     },
     "WelcomePage": {
-        "StartYourJourneyWithUs": "Comienza tu viaje con nosotros",
-        "WelcomeToThe": "Bienvenido al",
-        "WorldOfWampusBranding": "Mundo de Wampus Branding",
+        "StartYourJourneyWithUs": "Comienza Tu Viaje Con Nosotros",
+        "WelcomeToThe": "Bienvenido a",
+        "WorldOfWampusBranding": "Wampus Branding",
         "LetsTalk": "Hablemos"
     },
     "ShowcaseSection": {
-        "Below": "En los proyectos a continuación tuvimos cierta relevancia. ¡En algunos sitios, fueron solo implementaciones funcionales!",
-        "TakeALook": "Echa un vistazo"
+        "Below": "En los proyectos a continuación tuvimos cierta importancia. ¡En algunos sitios, estas fueron meramente implementaciones funcionales!",
+        "TakeALook": "Echa un vistazo",
+        "title0": "Título 1",
+        "title1": "Título 2",
+        "title2": "Título 3",
+        "title3": "Título 4",
+        "desc0": "desc 1",
+        "desc1": "desc 2",
+        "desc2": "desc 3",
+        "desc3": "desc 4"
+    },
+    "ServiceHighlights": {
+        "title0": "Liderando con Innovación",
+        "title1": "Precios Competitivos",
+        "title2": "Entrega Rápida",
+        "title3": "Comunicación Transparente",
+        "desc0": "Aprovechamos soluciones de TI de vanguardia para garantizar la máxima compatibilidad y escalabilidad de nuestro software, facilitando un desarrollo futuro sin problemas.",
+        "desc1": "Nuestros precios líderes en el mercado están dirigidos a estudiantes, asegurando asequibilidad sin comprometer la calidad. Nuestras tarifas no solo son razonables; son inmejorables.",
+        "desc2": "Experimenta una velocidad inigualable con nuestros tiempos de entrega rápidos. ¡Priorizamos la eficiencia sin sacrificar la calidad!",
+        "desc3": "Nuestro compromiso con la comunicación transparente asegura claridad y honestidad en cada interacción, fomentando la confianza y el entendimiento.",
+        "dashboardTitle": "Panel de Servicio al Cliente",
+        "dashboardDescription": "Dentro de nuestro panel de clientes, los usuarios tienen una variedad de opciones a su alcance. Desde reportar defectos en el programa hasta enviar solicitudes de desarrollo adicional, la plataforma sirve como un centro de comunicación optimizada. Nuestro equipo monitorea diligentemente el panel, asegurando que todas las consultas sean atendidas de manera oportuna y se tomen las acciones necesarias.",
+        "dashboardButtonDashboard": "Panel de Cliente",
+        "dashboardButtonFind": "Descubre más"
+    },
+    "ContactForm": {
+        "send": "Enviar",
+        "message": "Mensaje",
+        "email": "Correo Electrónico"
     }
 }

@@ -12,7 +12,7 @@
     "WelcomePage": {
         "StartYourJourneyWithUs": "Start Your Journey With Us",
         "WelcomeToThe": "Welcome to the",
-        "WorldOfWampusBranding": "World of Wampus Branding",
+        "WorldOfWampusBranding": "Wampus Branding",
         "LetsTalk": "Let's Talk"
     },
     "ShowcaseSection": {
@@ -26,5 +26,24 @@
         "desc1": "desc 2",
         "desc2": "desc 3",
         "desc3": "desc 4"
+    },
+    "ServiceHighlights": {
+        "title0": "Leading with Innovation",
+        "title1": "Competitive Pricing",
+        "title2": "Fast Turnaround",
+        "title3": "Transparent Communication",
+        "desc0": "We leverage cutting-edge IT solutions to guarantee maximum compatibility and scalability for our software, facilitating seamless future development.",
+        "desc1": "Our market-leading prices cater to students, ensuring affordability without compromising quality. Our rates are not just reasonable; they're unbeatable.",
+        "desc2": "Experience unmatched speed with our fast turnaround times. We prioritize efficiency without sacrificing quality!",
+        "desc3": "Our commitment to transparent communication ensures clarity and honesty in every interaction, fostering trust and understanding",
+        "dashboardTitle": "Customer Service Dashboard",
+        "dashboardDescription": "Within our client panel, users have a range of options at their fingertips. From reporting program defects to submitting requests for further development, the platform serves as a hub for streamlined communication. Our team diligently monitors the panel, ensuring that all inquiries are promptly addressed and any necessary actions are taken.",
+        "dashboardButtonDashboard": "Customer Dashboard",
+        "dashboardButtonFind": "Find out more"
+    },
+    "ContactForm": {
+        "send": "Send",
+        "message": "Message",
+        "email": "Email"
     }
 }

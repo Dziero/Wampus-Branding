@@ -3,20 +3,47 @@
         "Home": "Domů",
         "Career": "Kariéra",
         "Projects": "Projekty",
-        "Customer Dashboard": "Panel zákazníka"
+        "Customer Dashboard": "Zákaznický Panel"
     },
     "Separators": {
-        "WhyChooseUsOverOthers": "Proč zvolit nás před ostatními?",
-        "ProjectShowcase": "Přehled projektů"
+        "WhyChooseUsOverOthers": "Proč Nás Vybrat Před Ostatními?",
+        "ProjectShowcase": "Ukázka Projektů"
     },
     "WelcomePage": {
-        "StartYourJourneyWithUs": "Začněte svou cestu s námi",
-        "WelcomeToThe": "Vítejte v",
-        "WorldOfWampusBranding": "Svět Wampus Branding",
-        "LetsTalk": "Povídejme"
+        "StartYourJourneyWithUs": "Začněte Své Dobrodružství S Námi",
+        "WelcomeToThe": "Vítejte ve",
+        "WorldOfWampusBranding": "Wampus Branding",
+        "LetsTalk": "Pojďme Mluvit"
     },
     "ShowcaseSection": {
-        "Below": "V projektech níže jsme měli určitou relevanci. Na některých webových stránkách to byly pouze funkční implementace!",
-        "TakeALook": "Podívejte se"
+        "Below": "V níže uvedených projektech jsme měli určitý význam. Na některých stránkách to byly jen funkční implementace!",
+        "TakeALook": "Podívejte se",
+        "title0": "Název 1",
+        "title1": "Název 2",
+        "title2": "Název 3",
+        "title3": "Název 4",
+        "desc0": "popis 1",
+        "desc1": "popis 2",
+        "desc2": "popis 3",
+        "desc3": "popis 4"
+    },
+    "ServiceHighlights": {
+        "title0": "Vedení Inovacemi",
+        "title1": "Konkurenční Ceny",
+        "title2": "Rychlé Dodání",
+        "title3": "Transparentní Komunikace",
+        "desc0": "Využíváme nejmodernější IT řešení k zajištění maximální kompatibility a škálovatelnosti našeho softwaru, což usnadňuje bezproblémový budoucí vývoj.",
+        "desc1": "Naše ceny vedoucí na trhu jsou zaměřeny na studenty, zajišťující dostupnost bez kompromisů v kvalitě. Naše sazby nejsou jen rozumné; jsou nepřekonatelné.",
+        "desc2": "Zažijte bezkonkurenční rychlost s našimi rychlými dodacími lhůtami. Prioritizujeme efektivitu bez obětování kvality!",
+        "desc3": "Náš závazek k transparentní komunikaci zajišťuje jasnost a poctivost při každé interakci, podporující důvěru a porozumění.",
+        "dashboardTitle": "Zákaznický Servisní Panel",
+        "dashboardDescription": "V rámci našeho klientského panelu mají uživatelé na dosah řadu možností. Od hlášení chyb v programu po podávání žádostí o další vývoj, platforma slouží jako centrum pro zefektivněnou komunikaci. Náš tým pečlivě monitoruje panel, zajišťuje, že všechny dotazy jsou rychle zodpovězeny a potřebné kroky jsou podniknuty.",
+        "dashboardButtonDashboard": "Zákaznický Panel",
+        "dashboardButtonFind": "Zjistěte Více"
+    },
+    "ContactForm": {
+        "send": "Odeslat",
+        "message": "Zpráva",
+        "email": "Email"
     }
 }

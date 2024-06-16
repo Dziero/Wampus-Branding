@@ -3,20 +3,47 @@
         "Home": "Startseite",
         "Career": "Karriere",
         "Projects": "Projekte",
-        "Customer Dashboard": "Kundendashboard"
+        "Customer Dashboard": "Kunden-Panel"
     },
     "Separators": {
-        "WhyChooseUsOverOthers": "Warum Uns Wählen?",
-        "ProjectShowcase": "Projektpräsentation"
+        "WhyChooseUsOverOthers": "Warum Uns Statt Andere Wählen?",
+        "ProjectShowcase": "Projektvorstellung"
     },
     "WelcomePage": {
-        "StartYourJourneyWithUs": "Beginnen Sie Ihre Reise mit uns",
-        "WelcomeToThe": "Willkommen in der",
-        "WorldOfWampusBranding": "Welt des Wampus Branding",
-        "LetsTalk": "Lass uns reden"
+        "StartYourJourneyWithUs": "Beginnen Sie Ihre Reise Mit Uns",
+        "WelcomeToThe": "Willkommen bei",
+        "WorldOfWampusBranding": "Wampus Branding",
+        "LetsTalk": "Lass Uns Reden"
     },
     "ShowcaseSection": {
-        "Below": "In den unten stehenden Projekten hatten wir einige Bedeutung. Auf einigen Seiten waren dies lediglich funktionale Implementierungen!",
-        "TakeALook": "Schau mal"
+        "Below": "In den unten aufgeführten Projekten hatten wir eine gewisse Bedeutung. Auf einigen Seiten waren dies nur funktionale Implementierungen!",
+        "TakeALook": "Schau mal",
+        "title0": "Titel 1",
+        "title1": "Titel 2",
+        "title2": "Titel 3",
+        "title3": "Titel 4",
+        "desc0": "Beschreibung 1",
+        "desc1": "Beschreibung 2",
+        "desc2": "Beschreibung 3",
+        "desc3": "Beschreibung 4"
+    },
+    "ServiceHighlights": {
+        "title0": "Führend mit Innovation",
+        "title1": "Wettbewerbsfähige Preise",
+        "title2": "Schnelle Lieferung",
+        "title3": "Transparente Kommunikation",
+        "desc0": "Wir nutzen modernste IT-Lösungen, um maximale Kompatibilität und Skalierbarkeit unserer Software zu gewährleisten, was eine nahtlose zukünftige Entwicklung ermöglicht.",
+        "desc1": "Unsere marktführenden Preise richten sich an Studenten und gewährleisten Erschwinglichkeit ohne Kompromisse bei der Qualität. Unsere Preise sind nicht nur angemessen; sie sind unschlagbar.",
+        "desc2": "Erleben Sie unvergleichliche Geschwindigkeit mit unseren schnellen Lieferzeiten. Wir priorisieren Effizienz, ohne die Qualität zu opfern!",
+        "desc3": "Unser Engagement für transparente Kommunikation sorgt für Klarheit und Ehrlichkeit in jeder Interaktion, was Vertrauen und Verständnis fördert.",
+        "dashboardTitle": "Kundenservice-Panel",
+        "dashboardDescription": "In unserem Kundenpanel haben Benutzer eine Vielzahl von Optionen zur Hand. Von der Meldung von Programmfehlern bis hin zur Einreichung von Anfragen für die Weiterentwicklung dient die Plattform als Drehscheibe für optimierte Kommunikation. Unser Team überwacht das Panel sorgfältig und stellt sicher, dass alle Anfragen umgehend bearbeitet und notwendige Maßnahmen ergriffen werden.",
+        "dashboardButtonDashboard": "Kunden-Panel",
+        "dashboardButtonFind": "Mehr Erfahren"
+    },
+    "ContactForm": {
+        "send": "Senden",
+        "message": "Nachricht",
+        "email": "E-Mail"
     }
 }

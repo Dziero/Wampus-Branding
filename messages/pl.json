@@ -1,22 +1,49 @@
 {
     "Header": {
-        "Home": "Strona główna",
+        "Home": "Strona Główna",
         "Career": "Kariera",
         "Projects": "Projekty",
-        "Customer Dashboard": "Panel klienta"
+        "Customer Dashboard": "Panel Klienta"
     },
     "Separators": {
-        "WhyChooseUsOverOthers": "Dlaczego wybrać nas zamiast innych?",
-        "ProjectShowcase": "Prezentacja projektów"
+        "WhyChooseUsOverOthers": "Dlaczego Wybrać Nas Zamiast Innych?",
+        "ProjectShowcase": "Prezentacja Projektów"
     },
     "WelcomePage": {
-        "StartYourJourneyWithUs": "Rozpocznij swoją podróż z nami",
-        "WelcomeToThe": "Witaj w",
-        "WorldOfWampusBranding": "Świecie Wampus Branding",
+        "StartYourJourneyWithUs": "Rozpocznij Swoją Podróż Z Nami",
+        "WelcomeToThe": "Witamy w",
+        "WorldOfWampusBranding": "Wampus Branding",
         "LetsTalk": "Porozmawiajmy"
     },
     "ShowcaseSection": {
-        "Below": "W projektach poniżej mieliśmy pewne znaczenie. Na niektórych stronach były to tylko funkcjonalne implementacje!",
-        "TakeALook": "Zobacz"
+        "Below": "W poniższych projektach mieliśmy pewne znaczenie. Na niektórych stronach były to jedynie funkcjonalne wdrożenia!",
+        "TakeALook": "Rzuć okiem",
+        "title0": "Tytuł 1",
+        "title1": "Tytuł 2",
+        "title2": "Tytuł 3",
+        "title3": "Tytuł 4",
+        "desc0": "opis 1",
+        "desc1": "opis 2",
+        "desc2": "opis 3",
+        "desc3": "opis 4"
+    },
+    "ServiceHighlights": {
+        "title0": "Przewodzenie Innowacjami",
+        "title1": "Konkurencyjne Ceny",
+        "title2": "Szybka Realizacja",
+        "title3": "Przejrzysta Komunikacja",
+        "desc0": "Wykorzystujemy najnowocześniejsze rozwiązania IT, aby zapewnić maksymalną kompatybilność i skalowalność naszego oprogramowania, umożliwiając bezproblemowy rozwój w przyszłości.",
+        "desc1": "Nasze wiodące na rynku ceny są skierowane do studentów, zapewniając przystępność bez kompromisów w jakości. Nasze stawki są nie tylko rozsądne; są bezkonkurencyjne.",
+        "desc2": "Doświadcz niezrównanej prędkości dzięki naszym szybkim czasom realizacji. Priorytetyzujemy wydajność bez poświęcania jakości!",
+        "desc3": "Nasze zaangażowanie w przejrzystą komunikację zapewnia jasność i uczciwość w każdej interakcji, budując zaufanie i zrozumienie.",
+        "dashboardTitle": "Panel Obsługi Klienta",
+        "dashboardDescription": "W ramach naszego panelu klienta użytkownicy mają szereg opcji na wyciągnięcie ręki. Od zgłaszania błędów w programie po składanie wniosków o dalszy rozwój, platforma służy jako centrum usprawnionej komunikacji. Nasz zespół dokładnie monitoruje panel, zapewniając, że wszystkie zapytania są szybko rozpatrywane i podejmowane są niezbędne działania.",
+        "dashboardButtonDashboard": "Panel Klienta",
+        "dashboardButtonFind": "Dowiedz się więcej"
+    },
+    "ContactForm": {
+        "send": "Wyślij",
+        "message": "Wiadomość",
+        "email": "E-mail"
     }
 }

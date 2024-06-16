@@ -10,7 +10,7 @@ const ShowcaseSection = () => {
     return (
         <section className="2xl:min-h-[calc(100vh-59px)] xl:min-h-[calc(100vh-47px)] lg:min-h-[calc(100vh-38px)] md:min-h-[calc(100vh-30px)] min-h-[calc(100vh-24px)] pb-16" id="projects">
             <div className="text-center pt-2">
-                <span className="font-thin tracking-tight text-center cursor-default 2xl:text-xl xl:text-lg lg:text-base md:text-sm text-xs">{ t('Below') }</span>
+                <span className="font-thin tracking-tight text-center cursor-default 2xl:text-xl xl:text-lg lg:text-base md:text-sm text-xs px-3">{ t('Below') }</span>
             </div>
             <div className="flex flex-col items-center justify-center">
                 <div className="grid grid-cols-1 lg:grid-cols-2 2xl:gap-28 xl:gap-24 lg:gap-16 gap-8 pt-16 px-4 2xl:w-4/6 2xl:h-5/6 lg:w-5/6 lg:h-5/6">

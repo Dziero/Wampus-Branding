@@ -30,3 +30,55 @@ body {
     text-wrap: balance;
   }
 }
+
+@keyframes slideInFromTop {
+  from {
+    transform: translateY(-100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideOutToTop {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-100%);
+  }
+}
+
+@keyframes slideInFromRight {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideOutToRight {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
+
+.menu-open {
+  animation: slideInFromTop 0.3s forwards;
+}
+
+.menu-close {
+  animation: slideOutToTop 0.3s forwards;
+}
+
+.button-open {
+  animation: slideInFromRight 0.3s forwards;
+}
+
+.button-close {
+  animation: slideOutToRight 0.3s forwards;
+}
