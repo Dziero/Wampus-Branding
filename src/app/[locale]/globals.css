@@ -82,7 +82,3 @@ body {
 .button-close {
   animation: slideOutToRight 0.3s forwards;
 }
-
-* {
-  color: #ffffff;
-}
