@@ -17,7 +17,7 @@ const ServiceHighlights = () => {
                     {valuesElements.slice(0, 4).map((element, index) => (
                         <div className="flex flex-col items-center text-center" key={index}>
                             <Image src={element.svg}  className="mb-3" width={70} height={70} />
-                            <h2 className="2xl:text-3xl xl:text-2xl lg:text-xl md:text-lg sm:text-base font-semibold mb-2">{ t('title' + index) }</h2>
+                            <h2 className="2xl:text-3xl xl:text-2xl lg:text-xl md:text-lg sm:text-base font-semibold mb-2 text-white">{ t('title' + index) }</h2>
                             <p className="2xl:text-lg xl:text-base lg:text-sm md:text-xs sm:text-xs max-w-xs text-[#6D767D]">{ t('desc' + index) }</p>
                         </div>
                     ))}
@@ -25,7 +25,7 @@ const ServiceHighlights = () => {
 
                 <div className="flex flex-col items-center text-center mb-8">
                     <Image src={valuesDashboard.svg}  className="mb-3" width={70} height={70} />
-                    <h2 className="2xl:text-3xl xl:text-2xl lg:text-xl md:text-lg sm:text-base font-semibold mb-2 px-8">{ t('dashboardTitle') }</h2>
+                    <h2 className="2xl:text-3xl xl:text-2xl lg:text-xl md:text-lg sm:text-base font-semibold mb-2 px-8 text-white">{ t('dashboardTitle') }</h2>
                     <p className="2xl:text-lg xl:text-base lg:text-sm md:text-xs sm:text-xs max-w-4xl mb-4 text-[#6D767D] px-8">{ t('dashboardDescription') }</p>
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-2 mb-8 justify-center mx-auto max-w-screen-xl px-8">
                         <button className="bg-[#00ABF0] text-white font-semibold py-2 px-4 rounded-lg sm:px-6 lg:py-4 lg:px-8">{ t('dashboardButtonDashboard') }</button>
